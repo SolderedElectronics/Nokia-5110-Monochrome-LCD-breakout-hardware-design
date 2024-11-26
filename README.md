@@ -1,10 +1,12 @@
+[SKU]: 333000
+
 # --- Product name --- Hardware design
 
 ## About the product
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
-|      [Buy --- product name ----](https://www.solde.red/SKU)      |
+|      [Buy --- product name ----](https://www.solde.red/[SKU])      |
 
 ------ product description ------
 
